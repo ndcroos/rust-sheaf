@@ -10,7 +10,7 @@ pub struct Cell {
 }
 
 impl Cell {
-  fn setDataAssignment(dataAssignment : ) -> {
+  fn setDataAssignment(dataAssignment : ) -> () {
     if dataTagType == dataAssignment.valueType {
     
     }
@@ -20,18 +20,27 @@ impl Cell {
     }
   }
   
-  fn setCompareMethod() -> {
+  fn setCompareMethod() -> () {
   
   
   }
   
-  fn setSerializeMethod() -> {
+  fn setSerializeMethod() -> () {
   
   }
   
-  fn setDeserializeMethod() -> {
+  fn setDeserializeMethod() -> () {
   
   
+  }
+  
+  fn setBounds() -> () {
+    
+  }
+  
+  fn getDataAssignment() ->  {
+    
+    
   }
 }
 
