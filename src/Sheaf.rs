@@ -24,4 +24,9 @@ impl Sheaf {
   
   
   }
+  
+  fn coboundary() -> {
+  
+  
+  }
 }
