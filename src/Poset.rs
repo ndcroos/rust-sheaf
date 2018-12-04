@@ -6,27 +6,27 @@ struct Poset {
 
 
 impl Poset {
-    hasseDiagram() -> {
+    fn hasseDiagram() -> {
     
     
     }
 
-    transitiveReduce() -> {
+    fn transitiveReduce() -> {
     
     
     }
     
-    maximalChains() -> {
+    fn maximalChains() -> {
     
     
     }
     
-    maxLenChains() -> {
+    fn maxLenChains() -> {
     
     
     }
     
-    mobius(x : , y : ) -> i32 {
+    fn mobius(x : , y : ) -> i32 {
         if x == y {
             return 1;
         }
@@ -36,12 +36,12 @@ impl Poset {
         }
     }
     
-    meet() -> {
+    fn meet() -> {
     
     
     }
     
-    meetMatrix() -> {
+    fn meetMatrix() -> {
     
     
     }
