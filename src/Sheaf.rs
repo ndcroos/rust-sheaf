@@ -1,5 +1,7 @@
 pub struct Sheaf {
-
+  normType : ;
+  maxOptiration = 100;
+  sheafOptimizer = DefaultSheafOptimizer;
 
 }
 
@@ -7,7 +9,7 @@ pub struct Sheaf {
 impl Sheaf {
 
   fn addCell() ->  () {
-  
+    addNode()
   }
   
   fn getCell() -> Cell {
@@ -28,6 +30,30 @@ impl Sheaf {
   fn coboundary() -> {
   
   
+  }
+  
+  
+  fn serializeAssignments() -> {
+    
+    
+  }
+  
+  
+  fn setSheafOptimizer() -> {
+    
+    
+  }
+  
+  
+  fn optimizationIteration() -> {
+    
+    
+  }
+  
+  
+  fn fuseAssignment() -> {
+    
+    
   }
   
 }
