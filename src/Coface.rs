@@ -4,3 +4,10 @@ pub struct Coface {
   orientation : ;
   
 }
+
+
+fn setEdgeMethod(){
+  
+  
+  
+}
