@@ -9,7 +9,7 @@ pub struct Sheaf {
 impl Sheaf {
 
   fn addCell() ->  () {
-    addNode()
+    addNode();
   }
   
   fn getCell() -> Cell {
