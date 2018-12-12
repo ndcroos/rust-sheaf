@@ -15,6 +15,8 @@ impl ToString for Assignment {
 
 impl PartialEq for Assignment {
     fn eq(&self, other: &Assignment) -> bool {
-        self.value == other.value
+        return self.value == other.value;
     }
 }
+
+
