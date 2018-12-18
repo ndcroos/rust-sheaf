@@ -20,3 +20,7 @@ impl PartialEq for Assignment {
 }
 
 
+impl Assignment {
+    
+    
+}
