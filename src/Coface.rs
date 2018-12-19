@@ -6,7 +6,7 @@ pub struct Coface {
 }
 
 
-fn setEdgeMethod() -> {
+fn setEdgeMethod() -> () {
   
   
   
