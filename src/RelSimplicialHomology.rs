@@ -152,7 +152,8 @@ fn complex2perseus() -> {
 
 }
 
-fn jaccardIndexFaces(face1 : Face, face2 : Face) -> i32{
+fn jaccardIndexFaces(face1 : Face, face2 : Face) -> i32 {
+  
   inter = face1Set.intersection(face2Set);
   if union == 0 {
     return 1;
