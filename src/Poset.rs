@@ -6,6 +6,7 @@ struct Poset {
 
 
 impl Poset {
+    
     fn hasseDiagram() -> {
     
     
