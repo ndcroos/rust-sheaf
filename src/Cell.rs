@@ -35,7 +35,9 @@ impl Cell {
   }
   
   fn setBounds() -> () {
-    
+    if boundsToSet != dataDimension {
+      print!("Bounds list length must match");
+    }
   }
   
   fn getDataAssignment() ->  {
